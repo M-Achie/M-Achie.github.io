@@ -1,6 +1,5 @@
 body {
   font-family: sans-serif;
-  background: linear-gradient(#e66465, #9198e5);
 }
 
 h1 {
@@ -17,6 +16,5 @@ p {
 .container {
   width: 500px;
   margin: 0 auto;
-  background: linear-gradient(#e66465, #9198e5);
-
+  color: #D3D3D3	
 }
